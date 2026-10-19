@@ -1,0 +1,35 @@
+{
+  "source": "https://ro.wikisource.org/wiki/Un_pedagog_de_%C8%99coal%C4%83_nou%C4%83",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Un pedagog de școală nouă",
+      "file": "01.txt",
+      "words": 113
+    },
+    {
+      "n": 2,
+      "title": "Conferință",
+      "file": "02.txt",
+      "words": 555
+    },
+    {
+      "n": 3,
+      "title": "O inspecțiune",
+      "file": "03.txt",
+      "words": 805
+    },
+    {
+      "n": 4,
+      "title": "Ajunul examenelor",
+      "file": "04.txt",
+      "words": 538
+    },
+    {
+      "n": 5,
+      "title": "Examenul anual",
+      "file": "05.txt",
+      "words": 588
+    }
+  ]
+}

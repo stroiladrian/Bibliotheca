@@ -1,0 +1,16 @@
+{
+  "slug": "ivan-turbinca",
+  "voice": "ro_RO-mihai-medium",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Ivan_Turbinc%C4%83",
+  "generatedAt": "2026-10-15T20:16:00+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ivan Turbincă",
+      "file": "01.mp3",
+      "seconds": 1877.5,
+      "bytes": 11265463
+    }
+  ]
+}

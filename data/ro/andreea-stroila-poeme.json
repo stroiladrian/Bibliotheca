@@ -1,0 +1,44 @@
+{
+  "slug": "andreea-stroila-poeme",
+  "engine": "gemini",
+  "voice": "Gacrux+Algieba",
+  "model": "gemini-3.8-flash-tts",
+  "narrator": "Voci AI „Gacrux” și „Algieba” (Google Gemini)",
+  "bitrate": 96,
+  "source": null,
+  "generatedAt": "2026-10-17T20:55:43+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Carusel · voce feminină",
+      "file": "01-gacrux.mp3",
+      "seconds": 81.5,
+      "bytes": 977472,
+      "hash": "f7e2c79f6b83"
+    },
+    {
+      "n": 2,
+      "title": "Carusel · voce masculină",
+      "file": "01-algieba.mp3",
+      "seconds": 72.3,
+      "bytes": 868032,
+      "hash": "1c089c497799"
+    },
+    {
+      "n": 3,
+      "title": "Plocoane · voce feminină",
+      "file": "02-gacrux.mp3",
+      "seconds": 74.3,
+      "bytes": 891072,
+      "hash": "0dd404949304"
+    },
+    {
+      "n": 4,
+      "title": "Plocoane · voce masculină",
+      "file": "02-algieba.mp3",
+      "seconds": 85.2,
+      "bytes": 1022688,
+      "hash": "853edaf63c2f"
+    }
+  ]
+}

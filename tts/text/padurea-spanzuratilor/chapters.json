@@ -1,0 +1,257 @@
+{
+  "source": "https://ro.wikisource.org/wiki/P%C4%83durea_sp%C3%A2nzura%C8%9Bilor",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "CARTEA ÎNTÂI",
+      "file": "01.txt",
+      "words": 14
+    },
+    {
+      "n": 2,
+      "title": "1",
+      "file": "02.txt",
+      "words": 4088
+    },
+    {
+      "n": 3,
+      "title": "2",
+      "file": "03.txt",
+      "words": 5365
+    },
+    {
+      "n": 4,
+      "title": "3",
+      "file": "04.txt",
+      "words": 899
+    },
+    {
+      "n": 5,
+      "title": "4",
+      "file": "05.txt",
+      "words": 2928
+    },
+    {
+      "n": 6,
+      "title": "5",
+      "file": "06.txt",
+      "words": 2380
+    },
+    {
+      "n": 7,
+      "title": "6",
+      "file": "07.txt",
+      "words": 795
+    },
+    {
+      "n": 8,
+      "title": "7",
+      "file": "08.txt",
+      "words": 2286
+    },
+    {
+      "n": 9,
+      "title": "8",
+      "file": "09.txt",
+      "words": 2549
+    },
+    {
+      "n": 10,
+      "title": "9",
+      "file": "10.txt",
+      "words": 1948
+    },
+    {
+      "n": 11,
+      "title": "10",
+      "file": "11.txt",
+      "words": 996
+    },
+    {
+      "n": 12,
+      "title": "11",
+      "file": "12.txt",
+      "words": 1392
+    },
+    {
+      "n": 13,
+      "title": "1",
+      "file": "13.txt",
+      "words": 2212
+    },
+    {
+      "n": 14,
+      "title": "2",
+      "file": "14.txt",
+      "words": 1396
+    },
+    {
+      "n": 15,
+      "title": "3",
+      "file": "15.txt",
+      "words": 1803
+    },
+    {
+      "n": 16,
+      "title": "4",
+      "file": "16.txt",
+      "words": 2638
+    },
+    {
+      "n": 17,
+      "title": "5",
+      "file": "17.txt",
+      "words": 3571
+    },
+    {
+      "n": 18,
+      "title": "6",
+      "file": "18.txt",
+      "words": 2146
+    },
+    {
+      "n": 19,
+      "title": "7",
+      "file": "19.txt",
+      "words": 3142
+    },
+    {
+      "n": 20,
+      "title": "8",
+      "file": "20.txt",
+      "words": 2022
+    },
+    {
+      "n": 21,
+      "title": "9",
+      "file": "21.txt",
+      "words": 2401
+    },
+    {
+      "n": 22,
+      "title": "10",
+      "file": "22.txt",
+      "words": 1611
+    },
+    {
+      "n": 23,
+      "title": "11",
+      "file": "23.txt",
+      "words": 673
+    },
+    {
+      "n": 24,
+      "title": "1",
+      "file": "24.txt",
+      "words": 2207
+    },
+    {
+      "n": 25,
+      "title": "2",
+      "file": "25.txt",
+      "words": 914
+    },
+    {
+      "n": 26,
+      "title": "3",
+      "file": "26.txt",
+      "words": 2750
+    },
+    {
+      "n": 27,
+      "title": "4",
+      "file": "27.txt",
+      "words": 1839
+    },
+    {
+      "n": 28,
+      "title": "5",
+      "file": "28.txt",
+      "words": 2187
+    },
+    {
+      "n": 29,
+      "title": "6",
+      "file": "29.txt",
+      "words": 2082
+    },
+    {
+      "n": 30,
+      "title": "7",
+      "file": "30.txt",
+      "words": 2223
+    },
+    {
+      "n": 31,
+      "title": "8",
+      "file": "31.txt",
+      "words": 1826
+    },
+    {
+      "n": 32,
+      "title": "9",
+      "file": "32.txt",
+      "words": 2116
+    },
+    {
+      "n": 33,
+      "title": "10",
+      "file": "33.txt",
+      "words": 803
+    },
+    {
+      "n": 34,
+      "title": "11",
+      "file": "34.txt",
+      "words": 1440
+    },
+    {
+      "n": 35,
+      "title": "1",
+      "file": "35.txt",
+      "words": 1846
+    },
+    {
+      "n": 36,
+      "title": "2",
+      "file": "36.txt",
+      "words": 1478
+    },
+    {
+      "n": 37,
+      "title": "3",
+      "file": "37.txt",
+      "words": 1803
+    },
+    {
+      "n": 38,
+      "title": "4",
+      "file": "38.txt",
+      "words": 1467
+    },
+    {
+      "n": 39,
+      "title": "5",
+      "file": "39.txt",
+      "words": 1495
+    },
+    {
+      "n": 40,
+      "title": "6",
+      "file": "40.txt",
+      "words": 993
+    },
+    {
+      "n": 41,
+      "title": "7",
+      "file": "41.txt",
+      "words": 1263
+    },
+    {
+      "n": 42,
+      "title": "8",
+      "file": "42.txt",
+      "words": 2632
+    }
+  ]
+}

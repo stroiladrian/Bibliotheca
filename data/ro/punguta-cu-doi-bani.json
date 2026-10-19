@@ -1,0 +1,18 @@
+{
+  "slug": "punguta-cu-doi-bani",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Pungu%C8%9Ba_cu_doi_bani",
+  "generatedAt": "2026-10-17T21:11:15+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Punguța cu doi bani",
+      "file": "01.mp3",
+      "seconds": 468.4,
+      "bytes": 2810736
+    }
+  ]
+}

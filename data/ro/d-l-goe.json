@@ -1,0 +1,18 @@
+{
+  "slug": "d-l-goe",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/D-l_Goe",
+  "generatedAt": "2026-10-17T21:15:13+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "D-l Goe…",
+      "file": "01.mp3",
+      "seconds": 519.4,
+      "bytes": 3117024
+    }
+  ]
+}

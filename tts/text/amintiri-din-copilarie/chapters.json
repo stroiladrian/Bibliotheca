@@ -1,0 +1,29 @@
+{
+  "source": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "I",
+      "file": "01.txt",
+      "words": 6535
+    },
+    {
+      "n": 2,
+      "title": "II",
+      "file": "02.txt",
+      "words": 7643
+    },
+    {
+      "n": 3,
+      "title": "III",
+      "file": "03.txt",
+      "words": 8466
+    },
+    {
+      "n": 4,
+      "title": "IV",
+      "file": "04.txt",
+      "words": 2558
+    }
+  ]
+}

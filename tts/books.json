@@ -1,0 +1,606 @@
+{
+  "voice_help": "Books are narrated in this order by `npm run narrate`. Gemini voice per book: Gacrux = female storyteller, Algieba = male storyteller.",
+  "books": [
+    {
+      "slug": "andreea-stroila-poeme",
+      "title": "Carusel și alte poeme",
+      "author": "Andreea Stroila",
+      "year": 2026,
+      "original": true,
+      "folder": "originals/andreea-stroila",
+      "model": "gemini-3.8-flash-tts",
+      "voices": [
+        "Gacrux",
+        "Algieba"
+      ],
+      "cats": [
+        "poezie"
+      ],
+      "palette": [
+        "#3A1C32",
+        "#F6DCC8"
+      ],
+      "coverTag": "Poezie originală",
+      "blurb": "Poeme de Andreea Stroila, scrise pentru Bibliotheca. Fiecare poem e citit de două ori, o dată de o voce feminină și o dată de una masculină. Colecția crește pe măsură ce apar poeme noi."
+    },
+    {
+      "slug": "capra-cu-trei-iezi",
+      "title": "Capra cu trei iezi",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1875,
+      "wikisource": "Capra cu trei iezi",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#2F5D50",
+        "#F1EAD2"
+      ],
+      "blurb": "Capra pleacă după mâncare și le spune iezilor să nu deschidă ușa nimănui. Lupul are însă alte planuri. Basmul cu care au crescut generații întregi."
+    },
+    {
+      "slug": "punguta-cu-doi-bani",
+      "title": "Punguța cu doi bani",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1876,
+      "wikisource": "Punguța cu doi bani",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#8A5A1F",
+        "#FBF0DC"
+      ],
+      "blurb": "Un cocoș găsește o pungă cu doi bani și nu se lasă până nu și-o ia înapoi de la boierul lacom care i-a luat-o."
+    },
+    {
+      "slug": "fata-babei-si-fata-mosneagului",
+      "title": "Fata babei și fata moșneagului",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1877,
+      "wikisource": "Fata babei și fata moșneagului",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#3B2D5E",
+        "#ECE6FA"
+      ],
+      "blurb": "Două fete pornesc pe același drum: una harnică și bună la suflet, cealaltă leneșă și rea. Drumul le răsplătește pe fiecare după faptele ei."
+    },
+    {
+      "slug": "aleodor-imparat",
+      "title": "Aleodor împărat",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Aleodor împărat",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#4A5A27",
+        "#F0F2DE"
+      ],
+      "blurb": "Tânărul împărat Aleodor calcă din greșeală pe moșia unui zmeu-pocit și, ca să scape, trebuie să-i aducă fata împăratului Verde."
+    },
+    {
+      "slug": "zana-muntilor",
+      "title": "Zâna munților",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Zâna munților",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#1F3B73",
+        "#E6EDFA"
+      ],
+      "blurb": "Un fecior de împărat se îndrăgostește de Zâna munților și pornește după ea prin locuri unde nu mai călcase om."
+    },
+    {
+      "slug": "soacra-cu-trei-nurori",
+      "title": "Soacra cu trei nurori",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1875,
+      "wikisource": "Soacra cu trei nurori",
+      "cats": [
+        "basme"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#6E1A26",
+        "#F6E3D3"
+      ],
+      "blurb": "O soacră cicălitoare își chinuie cele trei nurori, până când ele hotărăsc să-i dea o lecție pe care n-o va uita."
+    },
+    {
+      "slug": "tinerete-fara-batranete",
+      "title": "Tinerețe fără bătrânețe și viață fără de moarte",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1862,
+      "wikisource": "Tinerețe fără bătrânețe și viață fără de moarte",
+      "cats": [
+        "basme"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#5A3A22",
+        "#F5E6D3"
+      ],
+      "blurb": "Un fecior de împărat pornește în căutarea tinereții fără bătrânețe și a vieții fără de moarte. Cel mai frumos basm românesc despre timp și dor."
+    },
+    {
+      "slug": "doi-feti-cu-stea-in-frunte",
+      "title": "Doi feți cu stea în frunte",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Doi feți cu stea în frunte",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#35585A",
+        "#E3F0EE"
+      ],
+      "blurb": "Fata cea mică a unui moșneag ajunge împărăteasă, dar surorile ei invidioase îi fură cei doi copii cu stea în frunte."
+    },
+    {
+      "slug": "greuceanu",
+      "title": "Greuceanu",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Greuceanu",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#23283F",
+        "#E4E7F7"
+      ],
+      "blurb": "Viteazul Greuceanu pleacă să aducă înapoi soarele și luna, furate de zmei, și se luptă cu ei și cu zmeoaicele lor viclene."
+    },
+    {
+      "slug": "danila-prepeleac",
+      "title": "Dănilă Prepeleac",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1876,
+      "wikisource": "Dănilă Prepeleac",
+      "cats": [
+        "basme",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#7A3B2E",
+        "#F7E4DA"
+      ],
+      "blurb": "Cel mai nepriceput gospodar din sat face niște schimburi tot mai proaste, dar ajunge să-l păcălească până și pe dracul."
+    },
+    {
+      "slug": "prislea-cel-voinic",
+      "title": "Prâslea cel voinic și merele de aur",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Prâslea cel voinic și merele de aur",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#2A2A2E",
+        "#E9DBB8"
+      ],
+      "blurb": "Cineva fură în fiecare an merele de aur ale împăratului. Doar fiul cel mic, Prâslea, are curajul să-l prindă pe hoț."
+    },
+    {
+      "slug": "fat-frumos-cu-parul-de-aur",
+      "title": "Făt-Frumos cu părul de aur",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Făt-Frumos cu părul de aur",
+      "cats": [
+        "basme",
+        "copii"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#4B2F4F",
+        "#F3E3F2"
+      ],
+      "blurb": "Un copil găsit pe apă și crescut de un pustnic pleacă în lume cu un cal năzdrăvan și ajunge să lupte pentru o împărăție."
+    },
+    {
+      "slug": "cele-douasprezece-fete",
+      "title": "Cele douăsprezece fete de împărat și palatul cel fermecat",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Cele douăsprezece fete de împărat și palatul cel fermecat",
+      "cats": [
+        "basme"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#2F5D50",
+        "#F1EAD2"
+      ],
+      "blurb": "În fiecare dimineață, papucii celor douăsprezece fete de împărat sunt tociți. Un cioban isteț descoperă unde dansează ele noaptea."
+    },
+    {
+      "slug": "ivan-turbinca",
+      "title": "Ivan Turbincă",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1878,
+      "wikisource": "Ivan Turbincă",
+      "cats": [
+        "basme",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#8A5A1F",
+        "#FBF0DC"
+      ],
+      "blurb": "Un soldat rus lăsat la vatră primește o traistă fermecată și ajunge să-i păcălească pe draci și chiar pe Moarte."
+    },
+    {
+      "slug": "povestea-porcului",
+      "title": "Povestea porcului",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1876,
+      "wikisource": "Povestea porcului",
+      "cats": [
+        "basme"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#3B2D5E",
+        "#ECE6FA"
+      ],
+      "blurb": "Doi bătrâni fără copii cresc un purcel găsit în drum, care se dovedește a fi un fecior de împărat fermecat."
+    },
+    {
+      "slug": "povestea-lui-stan-patitul",
+      "title": "Povestea lui Stan Pățitul",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1877,
+      "wikisource": "Povestea lui Stan Pățitul",
+      "cats": [
+        "basme",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#4A5A27",
+        "#F0F2DE"
+      ],
+      "blurb": "Stan, un flăcău sărac, ia ca slugă un drăcușor, și de aici încep întâmplările cele mai hazlii din poveștile lui Creangă."
+    },
+    {
+      "slug": "petrea-prostul",
+      "title": "Petrea prostul",
+      "author": "Petre Ispirescu",
+      "authorYears": "1830–1887",
+      "year": 1882,
+      "wikisource": "Petrea prostul",
+      "cats": [
+        "basme",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#1F3B73",
+        "#E6EDFA"
+      ],
+      "blurb": "Petrea trece drept cel mai prost din sat, dar norocul și prostia lui ajung să-i păcălească pe toți cei deștepți."
+    },
+    {
+      "slug": "d-l-goe",
+      "title": "D-l Goe…",
+      "author": "Ion Luca Caragiale",
+      "authorYears": "1852–1912",
+      "year": 1900,
+      "wikisource": "D-l Goe...",
+      "cats": [
+        "nuvele",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#6E1A26",
+        "#F6E3D3"
+      ],
+      "blurb": "Mam'mare, mamițica și tanti Mița îl duc pe micul Goe la București cu trenul, de 10 Mai. Schița despre copilul răsfățat pe care îl știe toată lumea."
+    },
+    {
+      "slug": "un-pedagog-de-scoala-noua",
+      "title": "Un pedagog de școală nouă",
+      "author": "Ion Luca Caragiale",
+      "authorYears": "1852–1912",
+      "year": 1892,
+      "wikisource": "Un pedagog de școală nouă",
+      "cats": [
+        "nuvele",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#5A3A22",
+        "#F5E6D3"
+      ],
+      "blurb": "Un inspector școlar îl pune la încercare pe un învățător plin de teorii pedagogice. Caragiale în forma lui cea mai ironică."
+    },
+    {
+      "slug": "mos-nichifor-cotcariul",
+      "title": "Moș Nichifor Coțcariul",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1877,
+      "wikisource": "Moș Nichifor Coțcariul",
+      "cats": [
+        "nuvele",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#35585A",
+        "#E3F0EE"
+      ],
+      "blurb": "Un căruțaș șiret duce o tânără nevastă de la Târgu Neamț la Piatra și o drumeție de o zi se umple de glume și tâlcuri."
+    },
+    {
+      "slug": "hagi-tudose",
+      "title": "Hagi-Tudose",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "authorYears": "1858–1918",
+      "year": 1893,
+      "wikisource": "Hagi-Tudose (nuvelă)",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#23283F",
+        "#E4E7F7"
+      ],
+      "blurb": "Un negustor bogat își trăiește viața strângând bani și refuzându-și orice. Portretul celui mai cunoscut avar din literatura română."
+    },
+    {
+      "slug": "popa-tanda",
+      "title": "Popa Tanda",
+      "author": "Ioan Slavici",
+      "authorYears": "1848–1925",
+      "year": 1875,
+      "wikisource": "Popa Tanda",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#7A3B2E",
+        "#F7E4DA"
+      ],
+      "blurb": "Un preot iute la vorbă e trimis în satul Sărăceni, unde oamenii sunt leneși și săraci, și găsește o cale neașteptată să-i schimbe."
+    },
+    {
+      "slug": "fat-frumos-din-lacrima",
+      "title": "Făt-Frumos din lacrimă",
+      "author": "Mihai Eminescu",
+      "authorYears": "1850–1889",
+      "year": 1870,
+      "wikisource": "Făt-Frumos din lacrimă",
+      "cats": [
+        "basme",
+        "nuvele"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#2A2A2E",
+        "#E9DBB8"
+      ],
+      "blurb": "Basmul lui Eminescu: un fecior născut din lacrima Maicii Domnului pornește într-o călătorie plină de poezie și primejdii."
+    },
+    {
+      "slug": "kir-ianulea",
+      "title": "Kir Ianulea",
+      "author": "Ion Luca Caragiale",
+      "authorYears": "1852–1912",
+      "year": 1909,
+      "wikisource": "Kir Ianulea",
+      "cats": [
+        "nuvele",
+        "umor"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#4B2F4F",
+        "#F3E3F2"
+      ],
+      "blurb": "Un drac trimis pe pământ să vadă cum e căsnicia ia chipul unui negustor din București și află că oamenii sunt mai răi decât iadul."
+    },
+    {
+      "slug": "cezara",
+      "title": "Cezara",
+      "author": "Mihai Eminescu",
+      "authorYears": "1850–1889",
+      "year": 1876,
+      "wikisource": "Cezara",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#2F5D50",
+        "#F1EAD2"
+      ],
+      "blurb": "O tânără italiancă și un călugăr frumos și rebel se întâlnesc pe o insulă de vis. Nuvela romantică a lui Eminescu."
+    },
+    {
+      "slug": "sarmanul-dionis",
+      "title": "Sărmanul Dionis",
+      "author": "Mihai Eminescu",
+      "authorYears": "1850–1889",
+      "year": 1872,
+      "wikisource": "Sărmanul Dionis",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#8A5A1F",
+        "#FBF0DC"
+      ],
+      "blurb": "Un tânăr sărac găsește o carte de astrologie care îl poartă prin timp și prin vise. Nuvela fantastică a lui Eminescu."
+    },
+    {
+      "slug": "povestea-lui-harap-alb",
+      "title": "Povestea lui Harap-Alb",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1877,
+      "wikisource": "Povestea lui Harap-Alb",
+      "cats": [
+        "basme"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#3B2D5E",
+        "#ECE6FA"
+      ],
+      "blurb": "Fiul cel mic al craiului pleacă să moștenească tronul unchiului său, dar e păcălit de Spân și devine sluga lui. Cel mai cunoscut basm cult românesc."
+    },
+    {
+      "slug": "budulea-taichii",
+      "title": "Budulea Taichii",
+      "author": "Ioan Slavici",
+      "authorYears": "1848–1925",
+      "year": 1880,
+      "wikisource": "Budulea Taichii",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#4A5A27",
+        "#F0F2DE"
+      ],
+      "blurb": "Fiul cimpoierului din sat, Huțu, ajunge prin muncă și încăpățânare om învățat, spre mândria tatălui său."
+    },
+    {
+      "slug": "amintiri-din-copilarie",
+      "title": "Amintiri din copilărie",
+      "author": "Ion Creangă",
+      "authorYears": "1837–1889",
+      "year": 1892,
+      "wikisource": "Amintiri din copilărie",
+      "cats": [
+        "romane"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#1F3B73",
+        "#E6EDFA"
+      ],
+      "blurb": "Copilăria lui Nică din Humulești: scăldatul de la Ozana, cireșele mătușii Mărioara, pupăza din tei și plecarea de acasă la școală."
+    },
+    {
+      "slug": "moara-cu-noroc",
+      "title": "Moara cu noroc",
+      "author": "Ioan Slavici",
+      "authorYears": "1848–1925",
+      "year": 1881,
+      "wikisource": "Moara cu noroc",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#6E1A26",
+        "#F6E3D3"
+      ],
+      "blurb": "Cizmarul Ghiță ia în arendă un han izolat, la o răscruce de drumuri, și cade sub influența lui Lică Sămădăul. O nuvelă despre lăcomie și frică."
+    },
+    {
+      "slug": "padureanca",
+      "title": "Pădureanca",
+      "author": "Ioan Slavici",
+      "authorYears": "1848–1925",
+      "year": 1884,
+      "wikisource": "Pădureanca",
+      "cats": [
+        "nuvele"
+      ],
+      "voice": "Gacrux",
+      "palette": [
+        "#5A3A22",
+        "#F5E6D3"
+      ],
+      "blurb": "Iorgovan, fiu de chiabur, se îndrăgostește de Simina, o fată săracă venită din pădure la secerat. O poveste de iubire cu final tragic."
+    },
+    {
+      "slug": "viata-la-tara",
+      "title": "Viața la țară",
+      "author": "Duiliu Zamfirescu",
+      "authorYears": "1858–1922",
+      "year": 1894,
+      "wikisource": "Viața la țară",
+      "cats": [
+        "romane"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#35585A",
+        "#E3F0EE"
+      ],
+      "blurb": "Matei Damian se întoarce la moșia lui după ani petrecuți în străinătate și descoperă satul, boierimea și dragostea pentru Sașa."
+    },
+    {
+      "slug": "padurea-spanzuratilor",
+      "title": "Pădurea spânzuraților",
+      "author": "Liviu Rebreanu",
+      "authorYears": "1885–1944",
+      "year": 1922,
+      "wikisource": "Pădurea spânzuraților",
+      "cats": [
+        "romane"
+      ],
+      "voice": "Algieba",
+      "palette": [
+        "#23283F",
+        "#E4E7F7"
+      ],
+      "blurb": "Ofițerul Apostol Bologa, român din Transilvania în armata austro-ungară, trebuie să lupte împotriva românilor. Romanul unei conștiințe sfâșiate."
+    }
+  ]
+}

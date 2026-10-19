@@ -1,0 +1,18 @@
+{
+  "slug": "capra-cu-trei-iezi",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Capra_cu_trei_iezi",
+  "generatedAt": "2026-10-16T17:13:46+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Capra cu trei iezi",
+      "file": "01.mp3",
+      "seconds": 967.6,
+      "bytes": 5805648
+    }
+  ]
+}

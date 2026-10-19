@@ -1,0 +1,679 @@
+{
+ "generatedAt": "2026-10-17T21:32:18.061Z",
+ "categories": [
+  {
+   "key": "basme",
+   "title": "Basme și povești",
+   "subtitle": "Creangă, Ispirescu, Eminescu"
+  },
+  {
+   "key": "copii",
+   "title": "Pentru copii"
+  },
+  {
+   "key": "nuvele",
+   "title": "Nuvele și povestiri"
+  },
+  {
+   "key": "umor",
+   "title": "Umor",
+   "subtitle": "Caragiale, Creangă și alți hâtri"
+  },
+  {
+   "key": "poezie",
+   "title": "Poezie"
+  },
+  {
+   "key": "romane",
+   "title": "Romane și amintiri"
+  }
+ ],
+ "featured": [
+  "ro-andreea-stroila-poeme",
+  "ro-capra-cu-trei-iezi",
+  "lv14017",
+  "ro-d-l-goe",
+  "lv14235"
+ ],
+ "books": [
+  {
+   "id": "ro-andreea-stroila-poeme",
+   "title": "Carusel și alte poeme",
+   "author": "Andreea Stroila",
+   "year": 2026,
+   "lang": "ro",
+   "narration": "ai",
+   "original": true,
+   "narrator": "Voci AI „Gacrux” și „Algieba” (Google Gemini)",
+   "seconds": 313,
+   "chapters": 4,
+   "cover": "/covers/ro-andreea-stroila-poeme.jpg",
+   "palette": [
+    "#3A1C32",
+    "#F6DCC8"
+   ],
+   "cats": [
+    "poezie"
+   ],
+   "blurb": "Poeme de Andreea Stroila, scrise pentru Bibliotheca. Fiecare poem e citit de două ori, o dată de o voce feminină și o dată de una masculină. Colecția crește pe măsură ce apar poeme noi.",
+   "kbps": 96
+  },
+  {
+   "id": "ro-capra-cu-trei-iezi",
+   "title": "Capra cu trei iezi",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1875,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 968,
+   "chapters": 1,
+   "cover": "/covers/ro-capra-cu-trei-iezi.jpg",
+   "palette": [
+    "#2F5D50",
+    "#F1EAD2"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Capra pleacă după mâncare și le spune iezilor să nu deschidă ușa nimănui. Lupul are însă alte planuri. Basmul cu care au crescut generații întregi.",
+   "kbps": 48
+  },
+  {
+   "id": "ro-punguta-cu-doi-bani",
+   "title": "Punguța cu doi bani",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1876,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 468,
+   "chapters": 1,
+   "cover": "/covers/ro-punguta-cu-doi-bani.jpg",
+   "palette": [
+    "#8A5A1F",
+    "#FBF0DC"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Un cocoș găsește o pungă cu doi bani și nu se lasă până nu și-o ia înapoi de la boierul lacom care i-a luat-o.",
+   "kbps": 48
+  },
+  {
+   "id": "ro-d-l-goe",
+   "title": "D-l Goe…",
+   "author": "Ion Luca Caragiale",
+   "authorYears": "1852–1912",
+   "year": 1900,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 519,
+   "chapters": 1,
+   "cover": "/covers/ro-d-l-goe.jpg",
+   "palette": [
+    "#6E1A26",
+    "#F6E3D3"
+   ],
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Mam'mare, mamițica și tanti Mița îl duc pe micul Goe la București cu trenul, de 10 Mai. Schița despre copilul răsfățat pe care îl știe toată lumea.",
+   "kbps": 48
+  },
+  {
+   "id": "lv14017",
+   "title": "Poezii",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "lang": "ro",
+   "narration": "human",
+   "narrator": "Cornel Nemes",
+   "seconds": 74606,
+   "chapters": 251,
+   "cover": "https://archive.org/download/poezii_2010_librivox/poesii_2010.jpg",
+   "cats": [
+    "poezie"
+   ],
+   "blurb": "Poeziile lui Mihai Eminescu, de la „Luceafărul” la „Scrisorile” și „Glossă”, citite în română de voluntari LibriVox.",
+   "kbps": 64
+  },
+  {
+   "id": "lv14235",
+   "title": "Balade și idile",
+   "author": "George Coșbuc",
+   "authorYears": "1866–1918",
+   "lang": "ro",
+   "narration": "human",
+   "narrator": "Cornel Nemes",
+   "seconds": 13337,
+   "chapters": 58,
+   "cover": "https://archive.org/download/balade_si_idile_1908_librivox/baladesiidile_1908.JPG",
+   "cats": [
+    "poezie"
+   ],
+   "blurb": "„Balade și idile” (1893), volumul de debut al lui George Coșbuc: satul românesc, iubirea și baladele populare, în versuri pline de ritm.",
+   "kbps": 64
+  },
+  {
+   "id": "lv16535",
+   "title": "Cartea de aur",
+   "author": "Alexandru Macedonski",
+   "authorYears": "1854–1920",
+   "lang": "ro",
+   "narration": "human",
+   "narrator": "Gabriela Oprea",
+   "seconds": 11929,
+   "chapters": 8,
+   "cover": "https://archive.org/download/carteadeaur_2110_librivox/carteadeaur_2110.jpg",
+   "cats": [
+    "poezie"
+   ],
+   "blurb": "„Cartea de aur” a lui Alexandru Macedonski: proză poetică, simbolistă și visătoare, citită în română.",
+   "kbps": 64
+  }
+ ],
+ "upcoming": [
+  {
+   "id": "ro-fata-babei-si-fata-mosneagului",
+   "title": "Fata babei și fata moșneagului",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Două fete pornesc pe același drum: una harnică și bună la suflet, cealaltă leneșă și rea. Drumul le răsplătește pe fiecare după faptele ei.",
+   "palette": [
+    "#3B2D5E",
+    "#ECE6FA"
+   ],
+   "cover": "/covers/ro-fata-babei-si-fata-mosneagului.jpg"
+  },
+  {
+   "id": "ro-aleodor-imparat",
+   "title": "Aleodor împărat",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Tânărul împărat Aleodor calcă din greșeală pe moșia unui zmeu-pocit și, ca să scape, trebuie să-i aducă fata împăratului Verde.",
+   "palette": [
+    "#4A5A27",
+    "#F0F2DE"
+   ],
+   "cover": "/covers/ro-aleodor-imparat.jpg"
+  },
+  {
+   "id": "ro-zana-muntilor",
+   "title": "Zâna munților",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Un fecior de împărat se îndrăgostește de Zâna munților și pornește după ea prin locuri unde nu mai călcase om.",
+   "palette": [
+    "#1F3B73",
+    "#E6EDFA"
+   ],
+   "cover": "/covers/ro-zana-muntilor.jpg"
+  },
+  {
+   "id": "ro-soacra-cu-trei-nurori",
+   "title": "Soacra cu trei nurori",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1875,
+   "cats": [
+    "basme"
+   ],
+   "blurb": "O soacră cicălitoare își chinuie cele trei nurori, până când ele hotărăsc să-i dea o lecție pe care n-o va uita.",
+   "palette": [
+    "#6E1A26",
+    "#F6E3D3"
+   ],
+   "cover": "/covers/ro-soacra-cu-trei-nurori.jpg"
+  },
+  {
+   "id": "ro-tinerete-fara-batranete",
+   "title": "Tinerețe fără bătrânețe și viață fără de moarte",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1862,
+   "cats": [
+    "basme"
+   ],
+   "blurb": "Un fecior de împărat pornește în căutarea tinereții fără bătrânețe și a vieții fără de moarte. Cel mai frumos basm românesc despre timp și dor.",
+   "palette": [
+    "#5A3A22",
+    "#F5E6D3"
+   ],
+   "cover": "/covers/ro-tinerete-fara-batranete.jpg"
+  },
+  {
+   "id": "ro-doi-feti-cu-stea-in-frunte",
+   "title": "Doi feți cu stea în frunte",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Fata cea mică a unui moșneag ajunge împărăteasă, dar surorile ei invidioase îi fură cei doi copii cu stea în frunte.",
+   "palette": [
+    "#35585A",
+    "#E3F0EE"
+   ],
+   "cover": "/covers/ro-doi-feti-cu-stea-in-frunte.jpg"
+  },
+  {
+   "id": "ro-greuceanu",
+   "title": "Greuceanu",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Viteazul Greuceanu pleacă să aducă înapoi soarele și luna, furate de zmei, și se luptă cu ei și cu zmeoaicele lor viclene.",
+   "palette": [
+    "#23283F",
+    "#E4E7F7"
+   ],
+   "cover": "/covers/ro-greuceanu.jpg"
+  },
+  {
+   "id": "ro-danila-prepeleac",
+   "title": "Dănilă Prepeleac",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1876,
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Cel mai nepriceput gospodar din sat face niște schimburi tot mai proaste, dar ajunge să-l păcălească până și pe dracul.",
+   "palette": [
+    "#7A3B2E",
+    "#F7E4DA"
+   ],
+   "cover": "/covers/ro-danila-prepeleac.jpg"
+  },
+  {
+   "id": "ro-prislea-cel-voinic",
+   "title": "Prâslea cel voinic și merele de aur",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Cineva fură în fiecare an merele de aur ale împăratului. Doar fiul cel mic, Prâslea, are curajul să-l prindă pe hoț.",
+   "palette": [
+    "#2A2A2E",
+    "#E9DBB8"
+   ],
+   "cover": "/covers/ro-prislea-cel-voinic.jpg"
+  },
+  {
+   "id": "ro-fat-frumos-cu-parul-de-aur",
+   "title": "Făt-Frumos cu părul de aur",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Un copil găsit pe apă și crescut de un pustnic pleacă în lume cu un cal năzdrăvan și ajunge să lupte pentru o împărăție.",
+   "palette": [
+    "#4B2F4F",
+    "#F3E3F2"
+   ],
+   "cover": "/covers/ro-fat-frumos-cu-parul-de-aur.jpg"
+  },
+  {
+   "id": "ro-cele-douasprezece-fete",
+   "title": "Cele douăsprezece fete de împărat și palatul cel fermecat",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme"
+   ],
+   "blurb": "În fiecare dimineață, papucii celor douăsprezece fete de împărat sunt tociți. Un cioban isteț descoperă unde dansează ele noaptea.",
+   "palette": [
+    "#2F5D50",
+    "#F1EAD2"
+   ],
+   "cover": "/covers/ro-cele-douasprezece-fete.jpg"
+  },
+  {
+   "id": "ro-ivan-turbinca",
+   "title": "Ivan Turbincă",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1878,
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Un soldat rus lăsat la vatră primește o traistă fermecată și ajunge să-i păcălească pe draci și chiar pe Moarte.",
+   "palette": [
+    "#8A5A1F",
+    "#FBF0DC"
+   ],
+   "cover": "/covers/ro-ivan-turbinca.jpg"
+  },
+  {
+   "id": "ro-povestea-porcului",
+   "title": "Povestea porcului",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1876,
+   "cats": [
+    "basme"
+   ],
+   "blurb": "Doi bătrâni fără copii cresc un purcel găsit în drum, care se dovedește a fi un fecior de împărat fermecat.",
+   "palette": [
+    "#3B2D5E",
+    "#ECE6FA"
+   ],
+   "cover": "/covers/ro-povestea-porcului.jpg"
+  },
+  {
+   "id": "ro-povestea-lui-stan-patitul",
+   "title": "Povestea lui Stan Pățitul",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Stan, un flăcău sărac, ia ca slugă un drăcușor, și de aici încep întâmplările cele mai hazlii din poveștile lui Creangă.",
+   "palette": [
+    "#4A5A27",
+    "#F0F2DE"
+   ],
+   "cover": "/covers/ro-povestea-lui-stan-patitul.jpg"
+  },
+  {
+   "id": "ro-petrea-prostul",
+   "title": "Petrea prostul",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Petrea trece drept cel mai prost din sat, dar norocul și prostia lui ajung să-i păcălească pe toți cei deștepți.",
+   "palette": [
+    "#1F3B73",
+    "#E6EDFA"
+   ],
+   "cover": "/covers/ro-petrea-prostul.jpg"
+  },
+  {
+   "id": "ro-un-pedagog-de-scoala-noua",
+   "title": "Un pedagog de școală nouă",
+   "author": "Ion Luca Caragiale",
+   "authorYears": "1852–1912",
+   "year": 1892,
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un inspector școlar îl pune la încercare pe un învățător plin de teorii pedagogice. Caragiale în forma lui cea mai ironică.",
+   "palette": [
+    "#5A3A22",
+    "#F5E6D3"
+   ],
+   "cover": "/covers/ro-un-pedagog-de-scoala-noua.jpg"
+  },
+  {
+   "id": "ro-mos-nichifor-cotcariul",
+   "title": "Moș Nichifor Coțcariul",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un căruțaș șiret duce o tânără nevastă de la Târgu Neamț la Piatra și o drumeție de o zi se umple de glume și tâlcuri.",
+   "palette": [
+    "#35585A",
+    "#E3F0EE"
+   ],
+   "cover": "/covers/ro-mos-nichifor-cotcariul.jpg"
+  },
+  {
+   "id": "ro-hagi-tudose",
+   "title": "Hagi-Tudose",
+   "author": "Barbu Ștefănescu Delavrancea",
+   "authorYears": "1858–1918",
+   "year": 1893,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un negustor bogat își trăiește viața strângând bani și refuzându-și orice. Portretul celui mai cunoscut avar din literatura română.",
+   "palette": [
+    "#23283F",
+    "#E4E7F7"
+   ],
+   "cover": "/covers/ro-hagi-tudose.jpg"
+  },
+  {
+   "id": "ro-popa-tanda",
+   "title": "Popa Tanda",
+   "author": "Ioan Slavici",
+   "authorYears": "1848–1925",
+   "year": 1875,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un preot iute la vorbă e trimis în satul Sărăceni, unde oamenii sunt leneși și săraci, și găsește o cale neașteptată să-i schimbe.",
+   "palette": [
+    "#7A3B2E",
+    "#F7E4DA"
+   ],
+   "cover": "/covers/ro-popa-tanda.jpg"
+  },
+  {
+   "id": "ro-fat-frumos-din-lacrima",
+   "title": "Făt-Frumos din lacrimă",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1870,
+   "cats": [
+    "basme",
+    "nuvele"
+   ],
+   "blurb": "Basmul lui Eminescu: un fecior născut din lacrima Maicii Domnului pornește într-o călătorie plină de poezie și primejdii.",
+   "palette": [
+    "#2A2A2E",
+    "#E9DBB8"
+   ],
+   "cover": "/covers/ro-fat-frumos-din-lacrima.jpg"
+  },
+  {
+   "id": "ro-kir-ianulea",
+   "title": "Kir Ianulea",
+   "author": "Ion Luca Caragiale",
+   "authorYears": "1852–1912",
+   "year": 1909,
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un drac trimis pe pământ să vadă cum e căsnicia ia chipul unui negustor din București și află că oamenii sunt mai răi decât iadul.",
+   "palette": [
+    "#4B2F4F",
+    "#F3E3F2"
+   ],
+   "cover": "/covers/ro-kir-ianulea.jpg"
+  },
+  {
+   "id": "ro-cezara",
+   "title": "Cezara",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1876,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "O tânără italiancă și un călugăr frumos și rebel se întâlnesc pe o insulă de vis. Nuvela romantică a lui Eminescu.",
+   "palette": [
+    "#2F5D50",
+    "#F1EAD2"
+   ],
+   "cover": "/covers/ro-cezara.jpg"
+  },
+  {
+   "id": "ro-sarmanul-dionis",
+   "title": "Sărmanul Dionis",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1872,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un tânăr sărac găsește o carte de astrologie care îl poartă prin timp și prin vise. Nuvela fantastică a lui Eminescu.",
+   "palette": [
+    "#8A5A1F",
+    "#FBF0DC"
+   ],
+   "cover": "/covers/ro-sarmanul-dionis.jpg"
+  },
+  {
+   "id": "ro-povestea-lui-harap-alb",
+   "title": "Povestea lui Harap-Alb",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "cats": [
+    "basme"
+   ],
+   "blurb": "Fiul cel mic al craiului pleacă să moștenească tronul unchiului său, dar e păcălit de Spân și devine sluga lui. Cel mai cunoscut basm cult românesc.",
+   "palette": [
+    "#3B2D5E",
+    "#ECE6FA"
+   ],
+   "cover": "/covers/ro-povestea-lui-harap-alb.jpg"
+  },
+  {
+   "id": "ro-budulea-taichii",
+   "title": "Budulea Taichii",
+   "author": "Ioan Slavici",
+   "authorYears": "1848–1925",
+   "year": 1880,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Fiul cimpoierului din sat, Huțu, ajunge prin muncă și încăpățânare om învățat, spre mândria tatălui său.",
+   "palette": [
+    "#4A5A27",
+    "#F0F2DE"
+   ],
+   "cover": "/covers/ro-budulea-taichii.jpg"
+  },
+  {
+   "id": "ro-amintiri-din-copilarie",
+   "title": "Amintiri din copilărie",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1892,
+   "cats": [
+    "romane"
+   ],
+   "blurb": "Copilăria lui Nică din Humulești: scăldatul de la Ozana, cireșele mătușii Mărioara, pupăza din tei și plecarea de acasă la școală.",
+   "palette": [
+    "#1F3B73",
+    "#E6EDFA"
+   ],
+   "cover": "/covers/ro-amintiri-din-copilarie.jpg"
+  },
+  {
+   "id": "ro-moara-cu-noroc",
+   "title": "Moara cu noroc",
+   "author": "Ioan Slavici",
+   "authorYears": "1848–1925",
+   "year": 1881,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Cizmarul Ghiță ia în arendă un han izolat, la o răscruce de drumuri, și cade sub influența lui Lică Sămădăul. O nuvelă despre lăcomie și frică.",
+   "palette": [
+    "#6E1A26",
+    "#F6E3D3"
+   ],
+   "cover": "/covers/ro-moara-cu-noroc.jpg"
+  },
+  {
+   "id": "ro-padureanca",
+   "title": "Pădureanca",
+   "author": "Ioan Slavici",
+   "authorYears": "1848–1925",
+   "year": 1884,
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Iorgovan, fiu de chiabur, se îndrăgostește de Simina, o fată săracă venită din pădure la secerat. O poveste de iubire cu final tragic.",
+   "palette": [
+    "#5A3A22",
+    "#F5E6D3"
+   ],
+   "cover": "/covers/ro-padureanca.jpg"
+  },
+  {
+   "id": "ro-viata-la-tara",
+   "title": "Viața la țară",
+   "author": "Duiliu Zamfirescu",
+   "authorYears": "1858–1922",
+   "year": 1894,
+   "cats": [
+    "romane"
+   ],
+   "blurb": "Matei Damian se întoarce la moșia lui după ani petrecuți în străinătate și descoperă satul, boierimea și dragostea pentru Sașa.",
+   "palette": [
+    "#35585A",
+    "#E3F0EE"
+   ],
+   "cover": "/covers/ro-viata-la-tara.jpg"
+  },
+  {
+   "id": "ro-padurea-spanzuratilor",
+   "title": "Pădurea spânzuraților",
+   "author": "Liviu Rebreanu",
+   "authorYears": "1885–1944",
+   "year": 1922,
+   "cats": [
+    "romane"
+   ],
+   "blurb": "Ofițerul Apostol Bologa, român din Transilvania în armata austro-ungară, trebuie să lupte împotriva românilor. Romanul unei conștiințe sfâșiate.",
+   "palette": [
+    "#23283F",
+    "#E4E7F7"
+   ],
+   "cover": "/covers/ro-padurea-spanzuratilor.jpg"
+  }
+ ]
+}

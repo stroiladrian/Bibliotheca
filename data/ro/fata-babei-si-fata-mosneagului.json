@@ -1,0 +1,16 @@
+{
+  "slug": "fata-babei-si-fata-mosneagului",
+  "voice": "ro_RO-mihai-medium",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Fata_babei_%C8%99i_fata_mo%C8%99neagului",
+  "generatedAt": "2026-10-15T20:14:33+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Fata babei și fata moșneagului",
+      "file": "01.mp3",
+      "seconds": 874.5,
+      "bytes": 5247477
+    }
+  ]
+}

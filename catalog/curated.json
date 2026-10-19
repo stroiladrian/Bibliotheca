@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "key": "basme",
+      "title": "Basme și povești",
+      "subtitle": "Creangă, Ispirescu, Eminescu"
+    },
+    {
+      "key": "copii",
+      "title": "Pentru copii"
+    },
+    {
+      "key": "nuvele",
+      "title": "Nuvele și povestiri"
+    },
+    {
+      "key": "umor",
+      "title": "Umor",
+      "subtitle": "Caragiale, Creangă și alți hâtri"
+    },
+    {
+      "key": "poezie",
+      "title": "Poezie"
+    },
+    {
+      "key": "romane",
+      "title": "Romane și amintiri"
+    }
+  ],
+  "featured": [
+    "andreea-stroila-poeme",
+    "capra-cu-trei-iezi",
+    "eminescu-poezii",
+    "tinerete-fara-batranete",
+    "d-l-goe",
+    "cosbuc-balade",
+    "povestea-lui-harap-alb",
+    "amintiri-din-copilarie",
+    "moara-cu-noroc"
+  ],
+  "books": [
+    {
+      "key": "eminescu-poezii",
+      "id": 14017,
+      "cats": [
+        "poezie"
+      ],
+      "blurb": "Poeziile lui Mihai Eminescu, de la „Luceafărul” la „Scrisorile” și „Glossă”, citite în română de voluntari LibriVox.",
+      "title": "Poezii"
+    },
+    {
+      "key": "cosbuc-balade",
+      "id": 14235,
+      "cats": [
+        "poezie"
+      ],
+      "blurb": "„Balade și idile” (1893), volumul de debut al lui George Coșbuc: satul românesc, iubirea și baladele populare, în versuri pline de ritm.",
+      "title": "Balade și idile"
+    },
+    {
+      "key": "macedonski-cartea-de-aur",
+      "id": 16535,
+      "cats": [
+        "poezie"
+      ],
+      "blurb": "„Cartea de aur” a lui Alexandru Macedonski: proză poetică, simbolistă și visătoare, citită în română.",
+      "title": "Cartea de aur"
+    }
+  ]
+}

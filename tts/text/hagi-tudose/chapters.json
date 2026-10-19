@@ -1,0 +1,41 @@
+{
+  "source": "https://ro.wikisource.org/wiki/Hagi-Tudose_%28nuvel%C4%83%29",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "I",
+      "file": "01.txt",
+      "words": 422
+    },
+    {
+      "n": 2,
+      "title": "II",
+      "file": "02.txt",
+      "words": 1049
+    },
+    {
+      "n": 3,
+      "title": "III",
+      "file": "03.txt",
+      "words": 790
+    },
+    {
+      "n": 4,
+      "title": "IV",
+      "file": "04.txt",
+      "words": 1138
+    },
+    {
+      "n": 5,
+      "title": "V",
+      "file": "05.txt",
+      "words": 570
+    },
+    {
+      "n": 6,
+      "title": "VI",
+      "file": "06.txt",
+      "words": 1308
+    }
+  ]
+}

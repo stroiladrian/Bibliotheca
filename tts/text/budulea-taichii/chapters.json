@@ -1,0 +1,53 @@
+{
+  "source": "https://ro.wikisource.org/wiki/Budulea_Taichii",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "I",
+      "file": "01.txt",
+      "words": 4948
+    },
+    {
+      "n": 2,
+      "title": "II",
+      "file": "02.txt",
+      "words": 979
+    },
+    {
+      "n": 3,
+      "title": "III",
+      "file": "03.txt",
+      "words": 1196
+    },
+    {
+      "n": 4,
+      "title": "IV",
+      "file": "04.txt",
+      "words": 2283
+    },
+    {
+      "n": 5,
+      "title": "V",
+      "file": "05.txt",
+      "words": 3717
+    },
+    {
+      "n": 6,
+      "title": "VI",
+      "file": "06.txt",
+      "words": 1222
+    },
+    {
+      "n": 7,
+      "title": "VII",
+      "file": "07.txt",
+      "words": 1190
+    },
+    {
+      "n": 8,
+      "title": "VIII",
+      "file": "08.txt",
+      "words": 2509
+    }
+  ]
+}
