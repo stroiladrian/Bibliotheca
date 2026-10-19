@@ -6,11 +6,12 @@ import { ToastProvider } from "./Toast";
 import { BottomNav, TopBar } from "./Nav";
 import { MiniPlayer } from "./MiniPlayer";
 import { FullPlayer } from "./FullPlayer";
+import { withBase } from "@/lib/base";
 
 function useServiceWorker() {
   useEffect(() => {
     if (process.env.NODE_ENV !== "production" || !("serviceWorker" in navigator)) return;
-    navigator.serviceWorker.register("/sw.js").catch(() => {});
+    navigator.serviceWorker.register(withBase("/sw.js")).catch(() => {});
   }, []);
 }
 

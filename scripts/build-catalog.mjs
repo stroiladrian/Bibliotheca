@@ -36,6 +36,10 @@ function tidyTitle(t) {
   return s;
 }
 
+// GitHub Pages serves the site under /Bibliotheca: local covers and audio need that prefix
+const BASE = (process.env.NEXT_PUBLIC_BASE_PATH ?? "").replace(/\/$/, "");
+const withBase = (p) => (p && p.startsWith("/") && !p.startsWith("//") ? BASE + p : p);
+
 function years(a) {
   if (!a?.born && !a?.died) return undefined;
   const clean = (y) => String(y).replace(/^(\d{1,4}).*$/, "$1");
@@ -75,7 +79,7 @@ async function main() {
       narrator,
       seconds: lv.seconds,
       chapters: lv.chapters.length,
-      cover: lv.cover ?? undefined,
+      cover: withBase(lv.cover) ?? undefined,
       cats: c.cats,
       blurb: c.blurb,
       kbps: 64,
@@ -117,7 +121,7 @@ async function main() {
       narrator: m.narrator ?? "Voce AI „Mihai” (Piper)",
       seconds: Math.round(m.chapters.reduce((s, c) => s + c.seconds, 0)),
       chapters: m.chapters.length,
-      cover: b.cover ?? `/covers/ro-${b.slug}.jpg`,
+      cover: withBase(b.cover ?? `/covers/ro-${b.slug}.jpg`),
       palette: b.palette,
       cats: b.cats,
       blurb: b.blurb,
@@ -127,7 +131,7 @@ async function main() {
       chapterList: m.chapters.map((c) => ({
         n: c.n,
         title: c.title,
-        url: `${base}/${c.file}`,
+        url: withBase(`${base}/${c.file}`),
         seconds: Math.round(c.seconds),
       })),
     });
@@ -137,7 +141,7 @@ async function main() {
   const upcoming = [];
   for (const b of tts.books) {
     if (full.some((x) => x.key === b.slug)) continue;
-    const cover = existsSync(path.join(ROOT, "public/covers", `ro-${b.slug}.jpg`)) ? `/covers/ro-${b.slug}.jpg` : undefined;
+    const cover = existsSync(path.join(ROOT, "public/covers", `ro-${b.slug}.jpg`)) ? withBase(`/covers/ro-${b.slug}.jpg`) : undefined;
     upcoming.push({ id: `ro-${b.slug}`, title: b.title, author: b.author, authorYears: b.authorYears, year: b.year, cats: b.cats, blurb: b.blurb, palette: b.palette, cover });
   }
 

@@ -1,11 +1,12 @@
 "use client";
 
 import type { Book } from "./types";
+import { withBase } from "@/lib/base";
 
 // Full book data (with chapters) lives in /data/books/<id>.json so the home page stays light.
 const memory = new Map<string, Promise<Book>>();
 
-export const bookUrl = (id: string) => `/data/books/${id}.json`;
+export const bookUrl = (id: string) => withBase(`/data/books/${id}.json`);
 
 async function fetchBook(id: string): Promise<Book> {
   const url = bookUrl(id);

@@ -26,7 +26,18 @@ npm run build
 npm run preview      # serves out/ on http://localhost:3000
 ```
 
-## Put it online for free (Vercel)
+## Put it online for free (GitHub Pages)
+
+The workflow in `.github/workflows/pages.yml` builds the site and publishes it on every push to `main`.
+
+1. Push the repo to GitHub (commands below).
+2. On GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+3. Wait for the green check in the **Actions** tab (about 2 minutes). The app is at **https://stroiladrian.github.io/Bibliotheca/**.
+4. On your iPhone, open that link, then Share → **Add to Home Screen**.
+
+Every later `git push` updates the site automatically, including newly narrated books.
+
+## Or on Vercel
 
 1. Push the repo to GitHub (commands below).
 2. On vercel.com: **Add New → Project → import `Bibliotheca`**. Leave everything on the defaults and deploy.

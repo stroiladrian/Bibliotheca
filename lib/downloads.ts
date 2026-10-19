@@ -6,6 +6,7 @@
 import type { Book } from "./types";
 import { bookUrl } from "./books";
 import { getState, setDownload } from "./store";
+import { withBase } from "@/lib/base";
 
 export const AUDIO_CACHE = "bibliotheca-audio-v1";
 export const PAGES_CACHE = "bib-pages-v1"; // shared with public/sw.js
@@ -39,7 +40,7 @@ export async function downloadBook(book: Book): Promise<void> {
     // keep the book page available offline too
     caches
       .open(PAGES_CACHE)
-      .then((c) => c.add(`/carte/${book.id}/`))
+      .then((c) => c.add(withBase(`/carte/${book.id}/`)))
       .catch(() => {});
 
     report("downloading");

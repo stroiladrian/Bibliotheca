@@ -6,6 +6,7 @@ import { loadBook } from "./books";
 import { offlineUrl } from "./downloads";
 import { getState, saveProgress, setRate as storeRate, setVolume as storeVolume } from "./store";
 import { useToast } from "@/components/Toast";
+import { withBase } from "@/lib/base";
 
 export type Sleep = { kind: "off" } | { kind: "timer"; endsAt: number; minutes: number } | { kind: "chapter" };
 
@@ -51,7 +52,7 @@ interface PlayerApi extends PlayerState {
 
 export const RATES = [0.75, 1, 1.25, 1.5, 1.75, 2];
 const SLEEP_STEPS = [15, 30, 45, 60];
-const SILENCE = "/silence.mp3";
+const SILENCE = withBase("/silence.mp3");
 const SAVE_EVERY_MS = 5000;
 
 const PlayerCtx = createContext<PlayerApi | null>(null);

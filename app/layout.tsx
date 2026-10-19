@@ -3,6 +3,7 @@ import "@fontsource-variable/bricolage-grotesque";
 import "@fontsource-variable/figtree";
 import "./globals.css";
 import { AppShell } from "@/components/AppShell";
+import { withBase } from "@/lib/base";
 
 const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL ??
@@ -17,14 +18,14 @@ export const metadata: Metadata = {
   description:
     "Cărți audio gratuite în limba română: clasici românești citiți de voluntari LibriVox sau narați cu voci AI.",
   applicationName: "Bibliotheca",
-  manifest: "/manifest.webmanifest",
+  manifest: withBase("/manifest.webmanifest"),
   icons: {
     icon: [
-      { url: "/icons/favicon.svg", type: "image/svg+xml" },
-      { url: "/icons/favicon-48.png", sizes: "48x48", type: "image/png" },
-      { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: withBase("/icons/favicon.svg"), type: "image/svg+xml" },
+      { url: withBase("/icons/favicon-48.png"), sizes: "48x48", type: "image/png" },
+      { url: withBase("/icons/icon-192.png"), sizes: "192x192", type: "image/png" },
     ],
-    apple: [{ url: "/icons/apple-touch-icon.png", sizes: "180x180" }],
+    apple: [{ url: withBase("/icons/apple-touch-icon.png"), sizes: "180x180" }],
   },
   appleWebApp: {
     capable: true,

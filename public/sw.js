@@ -2,14 +2,16 @@
 // Audio is NOT handled here: downloaded chapters are played from the page as blob: URLs
 // (see lib/downloads.ts), which avoids range-request problems on iPhone.
 
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = `bib-shell-${VERSION}`;
 const RUNTIME = `bib-runtime-${VERSION}`;
 const PAGES = "bib-pages-v1"; // book pages saved together with a download (lib/downloads.ts)
 const COVERS = "bib-covers-v1";
 const KEEP = [SHELL, RUNTIME, PAGES, COVERS, "bibliotheca-audio-v1"];
 
-const SHELL_URLS = ["/", "/cauta/", "/biblioteca/", "/descarcari/", "/manifest.webmanifest", "/icons/icon-192.png", "/silence.mp3"];
+// the site may live under a sub-path (GitHub Pages), so every URL is relative to where this worker lives
+const B = new URL(self.registration.scope).pathname.replace(/\/$/, "");
+const SHELL_URLS = ["/", "/cauta/", "/biblioteca/", "/descarcari/", "/manifest.webmanifest", "/icons/icon-192.png", "/silence.mp3"].map((p) => B + p);
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -77,11 +79,11 @@ self.addEventListener("fetch", (event) => {
   if (url.origin === self.location.origin) {
     if (request.mode === "navigate") {
       event.respondWith(
-        networkFirst(request, RUNTIME).catch(async () => (await caches.match("/")) || Response.error()),
+        networkFirst(request, RUNTIME).catch(async () => (await caches.match(B + "/")) || Response.error()),
       );
       return;
     }
-    if (url.pathname.startsWith("/_next/static/")) {
+    if (url.pathname.startsWith(B + "/_next/static/")) {
       event.respondWith(cacheFirst(request, RUNTIME));
       return;
     }
