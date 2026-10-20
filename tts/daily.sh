@@ -28,6 +28,17 @@ PY="$DIR/tts/.venv/bin/python"
   new=$((after - before))
   echo "=== done (narrate exit $status), $new new book(s) ==="
 
+  # publish: commit only the narration output and push, so GitHub Pages updates by itself
+  if [ -d .git ] && git remote get-url origin >/dev/null 2>&1; then
+    git add data/ro data/catalog.json public/audio public/covers 2>/dev/null
+    if ! git diff --cached --quiet; then
+      git commit -q -m "Daily narration $(date +%Y-%m-%d)" && echo "Committed new narration."
+      if git push -q origin HEAD 2>&1; then echo "Pushed: the site updates in about 2 minutes."; else echo "Push failed (run 'git push' once by hand to save your GitHub login)."; fi
+    else
+      echo "Nothing new to publish."
+    fi
+  fi
+
   # a small macOS notification so you know it ran
   if command -v osascript >/dev/null; then
     if [ "$status" -ne 0 ]; then
