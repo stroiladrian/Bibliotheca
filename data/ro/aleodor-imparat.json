@@ -1,0 +1,18 @@
+{
+  "slug": "aleodor-imparat",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Aleodor_%C3%AEmp%C4%83rat",
+  "generatedAt": "2026-10-21T17:10:47+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Aleodor împărat",
+      "file": "01.mp3",
+      "seconds": 803.5,
+      "bytes": 4821264
+    }
+  ]
+}

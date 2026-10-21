@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T17:00:29.837Z",
+ "generatedAt": "2026-10-21T17:16:19.673Z",
  "categories": [
   {
    "key": "basme",
@@ -128,6 +128,52 @@
    "kbps": 48
   },
   {
+   "id": "ro-aleodor-imparat",
+   "title": "Aleodor împărat",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 804,
+   "chapters": 1,
+   "cover": "/covers/ro-aleodor-imparat.jpg",
+   "palette": [
+    "#4A5A27",
+    "#F0F2DE"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Tânărul împărat Aleodor calcă din greșeală pe moșia unui zmeu-pocit și, ca să scape, trebuie să-i aducă fata împăratului Verde.",
+   "kbps": 48
+  },
+  {
+   "id": "ro-zana-muntilor",
+   "title": "Zâna munților",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 653,
+   "chapters": 1,
+   "cover": "/covers/ro-zana-muntilor.jpg",
+   "palette": [
+    "#1F3B73",
+    "#E6EDFA"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Un fecior de împărat se îndrăgostește de Zâna munților și pornește după ea prin locuri unde nu mai călcase om.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -203,40 +249,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-aleodor-imparat",
-   "title": "Aleodor împărat",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Tânărul împărat Aleodor calcă din greșeală pe moșia unui zmeu-pocit și, ca să scape, trebuie să-i aducă fata împăratului Verde.",
-   "palette": [
-    "#4A5A27",
-    "#F0F2DE"
-   ],
-   "cover": "/covers/ro-aleodor-imparat.jpg"
-  },
-  {
-   "id": "ro-zana-muntilor",
-   "title": "Zâna munților",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Un fecior de împărat se îndrăgostește de Zâna munților și pornește după ea prin locuri unde nu mai călcase om.",
-   "palette": [
-    "#1F3B73",
-    "#E6EDFA"
-   ],
-   "cover": "/covers/ro-zana-muntilor.jpg"
-  },
   {
    "id": "ro-soacra-cu-trei-nurori",
    "title": "Soacra cu trei nurori",
