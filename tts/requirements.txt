@@ -1,5 +1,5 @@
 # Romanian narration pipeline (free, runs on your computer)
 # Use Python 3.10–3.13. On an Intel Mac pip picks onnxruntime 1.23.x automatically.
 piper-tts==1.8.0
-lameenc==1.8.5
+lameenc>=1.7  # newest available wheel for your Python
 pillow>=10
