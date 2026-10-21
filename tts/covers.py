@@ -83,7 +83,12 @@ def _wrap(draw, text: str, font, width: int) -> list[str]:
 
 
 def make_cover(book: dict) -> Path:
-    from PIL import Image, ImageDraw
+    out = COVER_DIR / f"ro-{book['slug']}.jpg"
+    try:
+        from PIL import Image, ImageDraw
+    except ImportError:  # Pillow not installed: keep the existing cover
+        print("  (Pillow missing: kept the existing cover. Install it with: tts/.venv/bin/pip install pillow)")
+        return out
 
     bg, fg = (_hex(c) for c in book.get("palette", ["#2A2A2E", "#F5F5F4"]))
     img = Image.new("RGB", (SIZE, SIZE), bg)
