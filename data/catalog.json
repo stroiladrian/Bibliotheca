@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T16:26:47.682Z",
+ "generatedAt": "2026-10-21T17:00:29.837Z",
  "categories": [
   {
    "key": "basme",
@@ -105,6 +105,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-fata-babei-si-fata-mosneagului",
+   "title": "Fata babei și fata moșneagului",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 751,
+   "chapters": 1,
+   "cover": "/covers/ro-fata-babei-si-fata-mosneagului.jpg",
+   "palette": [
+    "#3B2D5E",
+    "#ECE6FA"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Două fete pornesc pe același drum: una harnică și bună la suflet, cealaltă leneșă și rea. Drumul le răsplătește pe fiecare după faptele ei.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -180,23 +203,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-fata-babei-si-fata-mosneagului",
-   "title": "Fata babei și fata moșneagului",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1877,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Două fete pornesc pe același drum: una harnică și bună la suflet, cealaltă leneșă și rea. Drumul le răsplătește pe fiecare după faptele ei.",
-   "palette": [
-    "#3B2D5E",
-    "#ECE6FA"
-   ],
-   "cover": "/covers/ro-fata-babei-si-fata-mosneagului.jpg"
-  },
   {
    "id": "ro-aleodor-imparat",
    "title": "Aleodor împărat",
