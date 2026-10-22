@@ -1,0 +1,18 @@
+{
+  "slug": "soacra-cu-trei-nurori",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Soacra_cu_trei_nurori",
+  "generatedAt": "2026-10-22T07:32:06+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Soacra cu trei nurori",
+      "file": "01.mp3",
+      "seconds": 806.2,
+      "bytes": 4837824
+    }
+  ]
+}

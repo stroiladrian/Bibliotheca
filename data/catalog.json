@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T17:16:19.673Z",
+ "generatedAt": "2026-10-22T07:38:33.796Z",
  "categories": [
   {
    "key": "basme",
@@ -32,6 +32,7 @@
   "ro-andreea-stroila-poeme",
   "ro-capra-cu-trei-iezi",
   "lv14017",
+  "ro-tinerete-fara-batranete",
   "ro-d-l-goe",
   "lv14235"
  ],
@@ -174,6 +175,50 @@
    "kbps": 48
   },
   {
+   "id": "ro-soacra-cu-trei-nurori",
+   "title": "Soacra cu trei nurori",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1875,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 806,
+   "chapters": 1,
+   "cover": "/covers/ro-soacra-cu-trei-nurori.jpg",
+   "palette": [
+    "#6E1A26",
+    "#F6E3D3"
+   ],
+   "cats": [
+    "basme"
+   ],
+   "blurb": "O soacră cicălitoare își chinuie cele trei nurori, până când ele hotărăsc să-i dea o lecție pe care n-o va uita.",
+   "kbps": 48
+  },
+  {
+   "id": "ro-tinerete-fara-batranete",
+   "title": "Tinerețe fără bătrânețe și viață fără de moarte",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1862,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 1051,
+   "chapters": 1,
+   "cover": "/covers/ro-tinerete-fara-batranete.jpg",
+   "palette": [
+    "#5A3A22",
+    "#F5E6D3"
+   ],
+   "cats": [
+    "basme"
+   ],
+   "blurb": "Un fecior de împărat pornește în căutarea tinereții fără bătrânețe și a vieții fără de moarte. Cel mai frumos basm românesc despre timp și dor.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -249,38 +294,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-soacra-cu-trei-nurori",
-   "title": "Soacra cu trei nurori",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1875,
-   "cats": [
-    "basme"
-   ],
-   "blurb": "O soacră cicălitoare își chinuie cele trei nurori, până când ele hotărăsc să-i dea o lecție pe care n-o va uita.",
-   "palette": [
-    "#6E1A26",
-    "#F6E3D3"
-   ],
-   "cover": "/covers/ro-soacra-cu-trei-nurori.jpg"
-  },
-  {
-   "id": "ro-tinerete-fara-batranete",
-   "title": "Tinerețe fără bătrânețe și viață fără de moarte",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1862,
-   "cats": [
-    "basme"
-   ],
-   "blurb": "Un fecior de împărat pornește în căutarea tinereții fără bătrânețe și a vieții fără de moarte. Cel mai frumos basm românesc despre timp și dor.",
-   "palette": [
-    "#5A3A22",
-    "#F5E6D3"
-   ],
-   "cover": "/covers/ro-tinerete-fara-batranete.jpg"
-  },
   {
    "id": "ro-doi-feti-cu-stea-in-frunte",
    "title": "Doi feți cu stea în frunte",
