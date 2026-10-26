@@ -1,0 +1,18 @@
+{
+  "slug": "doi-feti-cu-stea-in-frunte",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Doi_fe%C8%9Bi_cu_stea_%C3%AEn_frunte",
+  "generatedAt": "2026-10-26T16:54:22+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Doi feți cu stea în frunte",
+      "file": "01.mp3",
+      "seconds": 1121.9,
+      "bytes": 6731712
+    }
+  ]
+}

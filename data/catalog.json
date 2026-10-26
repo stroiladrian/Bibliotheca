@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T12:42:53.921Z",
+ "generatedAt": "2026-10-26T16:56:35.686Z",
  "categories": [
   {
    "key": "basme",
@@ -219,6 +219,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-doi-feti-cu-stea-in-frunte",
+   "title": "Doi feți cu stea în frunte",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 1122,
+   "chapters": 1,
+   "cover": "/covers/ro-doi-feti-cu-stea-in-frunte.jpg",
+   "palette": [
+    "#35585A",
+    "#E3F0EE"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Fata cea mică a unui moșneag ajunge împărăteasă, dar surorile ei invidioase îi fură cei doi copii cu stea în frunte.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -294,23 +317,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-doi-feti-cu-stea-in-frunte",
-   "title": "Doi feți cu stea în frunte",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Fata cea mică a unui moșneag ajunge împărăteasă, dar surorile ei invidioase îi fură cei doi copii cu stea în frunte.",
-   "palette": [
-    "#35585A",
-    "#E3F0EE"
-   ],
-   "cover": "/covers/ro-doi-feti-cu-stea-in-frunte.jpg"
-  },
   {
    "id": "ro-greuceanu",
    "title": "Greuceanu",
