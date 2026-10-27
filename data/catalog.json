@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T16:56:35.686Z",
+ "generatedAt": "2026-10-27T10:14:45.717Z",
  "categories": [
   {
    "key": "basme",
@@ -242,6 +242,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-greuceanu",
+   "title": "Greuceanu",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1147,
+   "chapters": 1,
+   "cover": "/covers/ro-greuceanu.jpg",
+   "palette": [
+    "#23283F",
+    "#E4E7F7"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Viteazul Greuceanu pleacă să aducă înapoi soarele și luna, furate de zmei, și se luptă cu ei și cu zmeoaicele lor viclene.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -317,23 +340,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-greuceanu",
-   "title": "Greuceanu",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Viteazul Greuceanu pleacă să aducă înapoi soarele și luna, furate de zmei, și se luptă cu ei și cu zmeoaicele lor viclene.",
-   "palette": [
-    "#23283F",
-    "#E4E7F7"
-   ],
-   "cover": "/covers/ro-greuceanu.jpg"
-  },
   {
    "id": "ro-danila-prepeleac",
    "title": "Dănilă Prepeleac",

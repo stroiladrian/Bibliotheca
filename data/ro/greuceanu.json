@@ -1,0 +1,18 @@
+{
+  "slug": "greuceanu",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Greuceanu",
+  "generatedAt": "2026-10-27T10:08:20+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Greuceanu",
+      "file": "01.mp3",
+      "seconds": 1147.0,
+      "bytes": 6882480
+    }
+  ]
+}
