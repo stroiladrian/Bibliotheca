@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T10:14:45.717Z",
+ "generatedAt": "2026-10-28T17:33:18.642Z",
  "categories": [
   {
    "key": "basme",
@@ -265,6 +265,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-danila-prepeleac",
+   "title": "Dănilă Prepeleac",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1876,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1262,
+   "chapters": 1,
+   "cover": "/covers/ro-danila-prepeleac.jpg",
+   "palette": [
+    "#7A3B2E",
+    "#F7E4DA"
+   ],
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Cel mai nepriceput gospodar din sat face niște schimburi tot mai proaste, dar ajunge să-l păcălească până și pe dracul.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -340,23 +363,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-danila-prepeleac",
-   "title": "Dănilă Prepeleac",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1876,
-   "cats": [
-    "basme",
-    "umor"
-   ],
-   "blurb": "Cel mai nepriceput gospodar din sat face niște schimburi tot mai proaste, dar ajunge să-l păcălească până și pe dracul.",
-   "palette": [
-    "#7A3B2E",
-    "#F7E4DA"
-   ],
-   "cover": "/covers/ro-danila-prepeleac.jpg"
-  },
   {
    "id": "ro-prislea-cel-voinic",
    "title": "Prâslea cel voinic și merele de aur",

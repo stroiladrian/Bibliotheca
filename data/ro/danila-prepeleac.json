@@ -1,0 +1,18 @@
+{
+  "slug": "danila-prepeleac",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/D%C4%83nil%C4%83_Prepeleac",
+  "generatedAt": "2026-10-28T17:22:44+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dănilă Prepeleac",
+      "file": "01.mp3",
+      "seconds": 1261.6,
+      "bytes": 7570224
+    }
+  ]
+}
