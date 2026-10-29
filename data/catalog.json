@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T17:33:18.642Z",
+ "generatedAt": "2026-10-29T08:31:15.057Z",
  "categories": [
   {
    "key": "basme",
@@ -288,6 +288,52 @@
    "kbps": 48
   },
   {
+   "id": "ro-prislea-cel-voinic",
+   "title": "Prâslea cel voinic și merele de aur",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1386,
+   "chapters": 1,
+   "cover": "/covers/ro-prislea-cel-voinic.jpg",
+   "palette": [
+    "#2A2A2E",
+    "#E9DBB8"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Cineva fură în fiecare an merele de aur ale împăratului. Doar fiul cel mic, Prâslea, are curajul să-l prindă pe hoț.",
+   "kbps": 48
+  },
+  {
+   "id": "ro-fat-frumos-cu-parul-de-aur",
+   "title": "Făt-Frumos cu părul de aur",
+   "author": "Petre Ispirescu",
+   "authorYears": "1830–1887",
+   "year": 1882,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1489,
+   "chapters": 1,
+   "cover": "/covers/ro-fat-frumos-cu-parul-de-aur.jpg",
+   "palette": [
+    "#4B2F4F",
+    "#F3E3F2"
+   ],
+   "cats": [
+    "basme",
+    "copii"
+   ],
+   "blurb": "Un copil găsit pe apă și crescut de un pustnic pleacă în lume cu un cal năzdrăvan și ajunge să lupte pentru o împărăție.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -363,40 +409,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-prislea-cel-voinic",
-   "title": "Prâslea cel voinic și merele de aur",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Cineva fură în fiecare an merele de aur ale împăratului. Doar fiul cel mic, Prâslea, are curajul să-l prindă pe hoț.",
-   "palette": [
-    "#2A2A2E",
-    "#E9DBB8"
-   ],
-   "cover": "/covers/ro-prislea-cel-voinic.jpg"
-  },
-  {
-   "id": "ro-fat-frumos-cu-parul-de-aur",
-   "title": "Făt-Frumos cu părul de aur",
-   "author": "Petre Ispirescu",
-   "authorYears": "1830–1887",
-   "year": 1882,
-   "cats": [
-    "basme",
-    "copii"
-   ],
-   "blurb": "Un copil găsit pe apă și crescut de un pustnic pleacă în lume cu un cal năzdrăvan și ajunge să lupte pentru o împărăție.",
-   "palette": [
-    "#4B2F4F",
-    "#F3E3F2"
-   ],
-   "cover": "/covers/ro-fat-frumos-cu-parul-de-aur.jpg"
-  },
   {
    "id": "ro-cele-douasprezece-fete",
    "title": "Cele douăsprezece fete de împărat și palatul cel fermecat",

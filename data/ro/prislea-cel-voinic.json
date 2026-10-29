@@ -1,0 +1,18 @@
+{
+  "slug": "prislea-cel-voinic",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Pr%C3%A2slea_cel_voinic_%C8%99i_merele_de_aur",
+  "generatedAt": "2026-10-29T08:21:18+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Prâslea cel voinic și merele de aur",
+      "file": "01.mp3",
+      "seconds": 1385.6,
+      "bytes": 8313696
+    }
+  ]
+}

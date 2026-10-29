@@ -1,0 +1,18 @@
+{
+  "slug": "fat-frumos-cu-parul-de-aur",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/F%C4%83t-Frumos_cu_p%C4%83rul_de_aur",
+  "generatedAt": "2026-10-29T08:31:09+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Făt-Frumos cu părul de aur",
+      "file": "01.mp3",
+      "seconds": 1489.4,
+      "bytes": 8936784
+    }
+  ]
+}
