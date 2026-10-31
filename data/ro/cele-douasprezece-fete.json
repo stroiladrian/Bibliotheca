@@ -1,0 +1,18 @@
+{
+  "slug": "cele-douasprezece-fete",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Cele_dou%C4%83sprezece_fete_de_%C3%AEmp%C4%83rat_%C8%99i_palatul_cel_fermecat",
+  "generatedAt": "2026-10-31T08:29:34+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Cele douăsprezece fete de împărat și palatul cel fermecat",
+      "file": "01.mp3",
+      "seconds": 1473.7,
+      "bytes": 8842464
+    }
+  ]
+}
