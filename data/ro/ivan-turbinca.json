@@ -1,16 +1,18 @@
 {
   "slug": "ivan-turbinca",
-  "voice": "ro_RO-mihai-medium",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
   "bitrate": 48,
   "source": "https://ro.wikisource.org/wiki/Ivan_Turbinc%C4%83",
-  "generatedAt": "2026-10-15T20:16:00+00:00",
+  "generatedAt": "2026-11-01T16:37:20+00:00",
   "chapters": [
     {
       "n": 1,
       "title": "Ivan Turbincă",
       "file": "01.mp3",
-      "seconds": 1877.5,
-      "bytes": 11265463
+      "seconds": 1577.0,
+      "bytes": 9462096
     }
   ]
 }

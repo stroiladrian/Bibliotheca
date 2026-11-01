@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T08:32:03.503Z",
+ "generatedAt": "2026-11-01T16:42:02.918Z",
  "categories": [
   {
    "key": "basme",
@@ -356,6 +356,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-ivan-turbinca",
+   "title": "Ivan Turbincă",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1878,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1577,
+   "chapters": 1,
+   "cover": "/covers/ro-ivan-turbinca.jpg",
+   "palette": [
+    "#8A5A1F",
+    "#FBF0DC"
+   ],
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Un soldat rus lăsat la vatră primește o traistă fermecată și ajunge să-i păcălească pe draci și chiar pe Moarte.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -431,23 +454,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-ivan-turbinca",
-   "title": "Ivan Turbincă",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1878,
-   "cats": [
-    "basme",
-    "umor"
-   ],
-   "blurb": "Un soldat rus lăsat la vatră primește o traistă fermecată și ajunge să-i păcălească pe draci și chiar pe Moarte.",
-   "palette": [
-    "#8A5A1F",
-    "#FBF0DC"
-   ],
-   "cover": "/covers/ro-ivan-turbinca.jpg"
-  },
   {
    "id": "ro-povestea-porcului",
    "title": "Povestea porcului",
