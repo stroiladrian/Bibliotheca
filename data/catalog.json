@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T08:42:56.884Z",
+ "generatedAt": "2026-11-03T08:32:32.760Z",
  "categories": [
   {
    "key": "basme",
@@ -379,6 +379,28 @@
    "kbps": 48
   },
   {
+   "id": "ro-povestea-porcului",
+   "title": "Povestea porcului",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1876,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 1842,
+   "chapters": 1,
+   "cover": "/covers/ro-povestea-porcului.jpg",
+   "palette": [
+    "#3B2D5E",
+    "#ECE6FA"
+   ],
+   "cats": [
+    "basme"
+   ],
+   "blurb": "Doi bătrâni fără copii cresc un purcel găsit în drum, care se dovedește a fi un fecior de împărat fermecat.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -454,22 +476,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-povestea-porcului",
-   "title": "Povestea porcului",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1876,
-   "cats": [
-    "basme"
-   ],
-   "blurb": "Doi bătrâni fără copii cresc un purcel găsit în drum, care se dovedește a fi un fecior de împărat fermecat.",
-   "palette": [
-    "#3B2D5E",
-    "#ECE6FA"
-   ],
-   "cover": "/covers/ro-povestea-porcului.jpg"
-  },
   {
    "id": "ro-povestea-lui-stan-patitul",
    "title": "Povestea lui Stan Pățitul",

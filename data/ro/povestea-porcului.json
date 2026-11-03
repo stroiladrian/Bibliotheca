@@ -1,0 +1,18 @@
+{
+  "slug": "povestea-porcului",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Povestea_porcului",
+  "generatedAt": "2026-11-03T08:25:13+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Povestea porcului",
+      "file": "01.mp3",
+      "seconds": 1842.2,
+      "bytes": 11053440
+    }
+  ]
+}
