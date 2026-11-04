@@ -1,0 +1,18 @@
+{
+  "slug": "povestea-lui-stan-patitul",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Povestea_lui_Stan_P%C4%83%C8%9Bitul",
+  "generatedAt": "2026-11-04T08:30:09+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Povestea lui Stan Pățitul",
+      "file": "01.mp3",
+      "seconds": 2354.5,
+      "bytes": 14127264
+    }
+  ]
+}

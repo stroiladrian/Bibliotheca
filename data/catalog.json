@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T08:32:32.760Z",
+ "generatedAt": "2026-11-04T08:32:22.723Z",
  "categories": [
   {
    "key": "basme",
@@ -401,6 +401,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-povestea-lui-stan-patitul",
+   "title": "Povestea lui Stan Pățitul",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 2355,
+   "chapters": 1,
+   "cover": "/covers/ro-povestea-lui-stan-patitul.jpg",
+   "palette": [
+    "#4A5A27",
+    "#F0F2DE"
+   ],
+   "cats": [
+    "basme",
+    "umor"
+   ],
+   "blurb": "Stan, un flăcău sărac, ia ca slugă un drăcușor, și de aici încep întâmplările cele mai hazlii din poveștile lui Creangă.",
+   "kbps": 48
+  },
+  {
    "id": "ro-d-l-goe",
    "title": "D-l Goe…",
    "author": "Ion Luca Caragiale",
@@ -476,23 +499,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-povestea-lui-stan-patitul",
-   "title": "Povestea lui Stan Pățitul",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1877,
-   "cats": [
-    "basme",
-    "umor"
-   ],
-   "blurb": "Stan, un flăcău sărac, ia ca slugă un drăcușor, și de aici încep întâmplările cele mai hazlii din poveștile lui Creangă.",
-   "palette": [
-    "#4A5A27",
-    "#F0F2DE"
-   ],
-   "cover": "/covers/ro-povestea-lui-stan-patitul.jpg"
-  },
   {
    "id": "ro-petrea-prostul",
    "title": "Petrea prostul",
