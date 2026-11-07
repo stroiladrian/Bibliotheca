@@ -1,0 +1,18 @@
+{
+  "slug": "petrea-prostul",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Petrea_prostul",
+  "generatedAt": "2026-11-07T08:24:14+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Petrea prostul",
+      "file": "01.mp3",
+      "seconds": 2836.4,
+      "bytes": 17018640
+    }
+  ]
+}
