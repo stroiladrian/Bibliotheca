@@ -1,0 +1,46 @@
+{
+  "slug": "un-pedagog-de-scoala-noua",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Un_pedagog_de_%C8%99coal%C4%83_nou%C4%83",
+  "generatedAt": "2026-11-08T08:45:54+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Un pedagog de școală nouă",
+      "file": "01.mp3",
+      "seconds": 65.6,
+      "bytes": 394128
+    },
+    {
+      "n": 2,
+      "title": "Conferință",
+      "file": "02.mp3",
+      "seconds": 241.6,
+      "bytes": 1449792
+    },
+    {
+      "n": 3,
+      "title": "O inspecțiune",
+      "file": "03.mp3",
+      "seconds": 264.4,
+      "bytes": 1586880
+    },
+    {
+      "n": 4,
+      "title": "Ajunul examenelor",
+      "file": "04.mp3",
+      "seconds": 196.7,
+      "bytes": 1180368
+    },
+    {
+      "n": 5,
+      "title": "Examenul anual",
+      "file": "05.mp3",
+      "seconds": 224.7,
+      "bytes": 1348704
+    }
+  ]
+}

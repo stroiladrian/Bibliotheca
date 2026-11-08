@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T08:27:50.918Z",
+ "generatedAt": "2026-11-08T08:51:26.139Z",
  "categories": [
   {
    "key": "basme",
@@ -470,6 +470,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-un-pedagog-de-scoala-noua",
+   "title": "Un pedagog de școală nouă",
+   "author": "Ion Luca Caragiale",
+   "authorYears": "1852–1912",
+   "year": 1892,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 993,
+   "chapters": 5,
+   "cover": "/covers/ro-un-pedagog-de-scoala-noua.jpg",
+   "palette": [
+    "#5A3A22",
+    "#F5E6D3"
+   ],
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un inspector școlar îl pune la încercare pe un învățător plin de teorii pedagogice. Caragiale în forma lui cea mai ironică.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -522,23 +545,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-un-pedagog-de-scoala-noua",
-   "title": "Un pedagog de școală nouă",
-   "author": "Ion Luca Caragiale",
-   "authorYears": "1852–1912",
-   "year": 1892,
-   "cats": [
-    "nuvele",
-    "umor"
-   ],
-   "blurb": "Un inspector școlar îl pune la încercare pe un învățător plin de teorii pedagogice. Caragiale în forma lui cea mai ironică.",
-   "palette": [
-    "#5A3A22",
-    "#F5E6D3"
-   ],
-   "cover": "/covers/ro-un-pedagog-de-scoala-noua.jpg"
-  },
   {
    "id": "ro-mos-nichifor-cotcariul",
    "title": "Moș Nichifor Coțcariul",
