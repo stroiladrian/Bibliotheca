@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T08:51:26.139Z",
+ "generatedAt": "2026-11-09T08:31:32.235Z",
  "categories": [
   {
    "key": "basme",
@@ -493,6 +493,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-mos-nichifor-cotcariul",
+   "title": "Moș Nichifor Coțcariul",
+   "author": "Ion Creangă",
+   "authorYears": "1837–1889",
+   "year": 1877,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1791,
+   "chapters": 1,
+   "cover": "/covers/ro-mos-nichifor-cotcariul.jpg",
+   "palette": [
+    "#35585A",
+    "#E3F0EE"
+   ],
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un căruțaș șiret duce o tânără nevastă de la Târgu Neamț la Piatra și o drumeție de o zi se umple de glume și tâlcuri.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -545,23 +568,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-mos-nichifor-cotcariul",
-   "title": "Moș Nichifor Coțcariul",
-   "author": "Ion Creangă",
-   "authorYears": "1837–1889",
-   "year": 1877,
-   "cats": [
-    "nuvele",
-    "umor"
-   ],
-   "blurb": "Un căruțaș șiret duce o tânără nevastă de la Târgu Neamț la Piatra și o drumeție de o zi se umple de glume și tâlcuri.",
-   "palette": [
-    "#35585A",
-    "#E3F0EE"
-   ],
-   "cover": "/covers/ro-mos-nichifor-cotcariul.jpg"
-  },
   {
    "id": "ro-hagi-tudose",
    "title": "Hagi-Tudose",

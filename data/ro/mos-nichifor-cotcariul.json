@@ -1,0 +1,18 @@
+{
+  "slug": "mos-nichifor-cotcariul",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Mo%C8%99_Nichifor_Co%C8%9Bcariul",
+  "generatedAt": "2026-11-09T08:27:10+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Moș Nichifor Coțcariul",
+      "file": "01.mp3",
+      "seconds": 1790.5,
+      "bytes": 10743552
+    }
+  ]
+}
