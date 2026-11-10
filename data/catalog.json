@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T08:31:32.235Z",
+ "generatedAt": "2026-11-10T09:34:00.850Z",
  "categories": [
   {
    "key": "basme",
@@ -516,6 +516,28 @@
    "kbps": 48
   },
   {
+   "id": "ro-hagi-tudose",
+   "title": "Hagi-Tudose",
+   "author": "Barbu Ștefănescu Delavrancea",
+   "authorYears": "1858–1918",
+   "year": 1893,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 1984,
+   "chapters": 6,
+   "cover": "/covers/ro-hagi-tudose.jpg",
+   "palette": [
+    "#23283F",
+    "#E4E7F7"
+   ],
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un negustor bogat își trăiește viața strângând bani și refuzându-și orice. Portretul celui mai cunoscut avar din literatura română.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -568,22 +590,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-hagi-tudose",
-   "title": "Hagi-Tudose",
-   "author": "Barbu Ștefănescu Delavrancea",
-   "authorYears": "1858–1918",
-   "year": 1893,
-   "cats": [
-    "nuvele"
-   ],
-   "blurb": "Un negustor bogat își trăiește viața strângând bani și refuzându-și orice. Portretul celui mai cunoscut avar din literatura română.",
-   "palette": [
-    "#23283F",
-    "#E4E7F7"
-   ],
-   "cover": "/covers/ro-hagi-tudose.jpg"
-  },
   {
    "id": "ro-popa-tanda",
    "title": "Popa Tanda",
