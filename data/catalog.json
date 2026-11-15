@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T08:43:02.574Z",
+ "generatedAt": "2026-11-15T18:46:43.919Z",
  "categories": [
   {
    "key": "basme",
@@ -538,6 +538,28 @@
    "kbps": 48
   },
   {
+   "id": "ro-popa-tanda",
+   "title": "Popa Tanda",
+   "author": "Ioan Slavici",
+   "authorYears": "1848–1925",
+   "year": 1875,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 2209,
+   "chapters": 3,
+   "cover": "/covers/ro-popa-tanda.jpg",
+   "palette": [
+    "#7A3B2E",
+    "#F7E4DA"
+   ],
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un preot iute la vorbă e trimis în satul Sărăceni, unde oamenii sunt leneși și săraci, și găsește o cale neașteptată să-i schimbe.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -590,22 +612,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-popa-tanda",
-   "title": "Popa Tanda",
-   "author": "Ioan Slavici",
-   "authorYears": "1848–1925",
-   "year": 1875,
-   "cats": [
-    "nuvele"
-   ],
-   "blurb": "Un preot iute la vorbă e trimis în satul Sărăceni, unde oamenii sunt leneși și săraci, și găsește o cale neașteptată să-i schimbe.",
-   "palette": [
-    "#7A3B2E",
-    "#F7E4DA"
-   ],
-   "cover": "/covers/ro-popa-tanda.jpg"
-  },
   {
    "id": "ro-fat-frumos-din-lacrima",
    "title": "Făt-Frumos din lacrimă",

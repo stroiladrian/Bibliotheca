@@ -1,0 +1,32 @@
+{
+  "slug": "popa-tanda",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Popa_Tanda",
+  "generatedAt": "2026-11-15T18:37:56+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Capitolul I",
+      "file": "01.mp3",
+      "seconds": 1209.6,
+      "bytes": 7257888
+    },
+    {
+      "n": 2,
+      "title": "Capitolul II",
+      "file": "02.mp3",
+      "seconds": 750.4,
+      "bytes": 4502736
+    },
+    {
+      "n": 3,
+      "title": "Capitolul III",
+      "file": "03.mp3",
+      "seconds": 249.0,
+      "bytes": 1494432
+    }
+  ]
+}
