@@ -1,0 +1,18 @@
+{
+  "slug": "fat-frumos-din-lacrima",
+  "engine": "gemini",
+  "voice": "Gacrux",
+  "narrator": "Voce AI „Gacrux” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/F%C4%83t-Frumos_din_lacrim%C4%83",
+  "generatedAt": "2026-11-16T08:31:50+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Făt-Frumos din lacrimă",
+      "file": "01.mp3",
+      "seconds": 2633.2,
+      "bytes": 15799824
+    }
+  ]
+}

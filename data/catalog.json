@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:46:43.919Z",
+ "generatedAt": "2026-11-16T08:34:07.249Z",
  "categories": [
   {
    "key": "basme",
@@ -560,6 +560,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-fat-frumos-din-lacrima",
+   "title": "Făt-Frumos din lacrimă",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1870,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 2633,
+   "chapters": 1,
+   "cover": "/covers/ro-fat-frumos-din-lacrima.jpg",
+   "palette": [
+    "#2A2A2E",
+    "#E9DBB8"
+   ],
+   "cats": [
+    "basme",
+    "nuvele"
+   ],
+   "blurb": "Basmul lui Eminescu: un fecior născut din lacrima Maicii Domnului pornește într-o călătorie plină de poezie și primejdii.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -612,23 +635,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-fat-frumos-din-lacrima",
-   "title": "Făt-Frumos din lacrimă",
-   "author": "Mihai Eminescu",
-   "authorYears": "1850–1889",
-   "year": 1870,
-   "cats": [
-    "basme",
-    "nuvele"
-   ],
-   "blurb": "Basmul lui Eminescu: un fecior născut din lacrima Maicii Domnului pornește într-o călătorie plină de poezie și primejdii.",
-   "palette": [
-    "#2A2A2E",
-    "#E9DBB8"
-   ],
-   "cover": "/covers/ro-fat-frumos-din-lacrima.jpg"
-  },
   {
    "id": "ro-kir-ianulea",
    "title": "Kir Ianulea",
