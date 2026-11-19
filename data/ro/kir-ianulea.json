@@ -1,0 +1,18 @@
+{
+  "slug": "kir-ianulea",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/Kir_Ianulea",
+  "generatedAt": "2026-11-19T08:36:19+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Kir Ianulea",
+      "file": "01.mp3",
+      "seconds": 3199.6,
+      "bytes": 19197648
+    }
+  ]
+}

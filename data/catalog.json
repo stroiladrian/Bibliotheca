@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T07:33:27.116Z",
+ "generatedAt": "2026-11-19T08:41:02.305Z",
  "categories": [
   {
    "key": "basme",
@@ -583,6 +583,29 @@
    "kbps": 48
   },
   {
+   "id": "ro-kir-ianulea",
+   "title": "Kir Ianulea",
+   "author": "Ion Luca Caragiale",
+   "authorYears": "1852–1912",
+   "year": 1909,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 3200,
+   "chapters": 1,
+   "cover": "/covers/ro-kir-ianulea.jpg",
+   "palette": [
+    "#4B2F4F",
+    "#F3E3F2"
+   ],
+   "cats": [
+    "nuvele",
+    "umor"
+   ],
+   "blurb": "Un drac trimis pe pământ să vadă cum e căsnicia ia chipul unui negustor din București și află că oamenii sunt mai răi decât iadul.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -635,23 +658,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-kir-ianulea",
-   "title": "Kir Ianulea",
-   "author": "Ion Luca Caragiale",
-   "authorYears": "1852–1912",
-   "year": 1909,
-   "cats": [
-    "nuvele",
-    "umor"
-   ],
-   "blurb": "Un drac trimis pe pământ să vadă cum e căsnicia ia chipul unui negustor din București și află că oamenii sunt mai răi decât iadul.",
-   "palette": [
-    "#4B2F4F",
-    "#F3E3F2"
-   ],
-   "cover": "/covers/ro-kir-ianulea.jpg"
-  },
   {
    "id": "ro-cezara",
    "title": "Cezara",
