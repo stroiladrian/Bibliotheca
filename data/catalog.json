@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T08:30:59.249Z",
+ "generatedAt": "2026-11-22T10:17:21.861Z",
  "categories": [
   {
    "key": "basme",
@@ -606,6 +606,28 @@
    "kbps": 48
   },
   {
+   "id": "ro-cezara",
+   "title": "Cezara",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1876,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Gacrux” (Google Gemini)",
+   "seconds": 3833,
+   "chapters": 8,
+   "cover": "/covers/ro-cezara.jpg",
+   "palette": [
+    "#2F5D50",
+    "#F1EAD2"
+   ],
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "O tânără italiancă și un călugăr frumos și rebel se întâlnesc pe o insulă de vis. Nuvela romantică a lui Eminescu.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -658,22 +680,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-cezara",
-   "title": "Cezara",
-   "author": "Mihai Eminescu",
-   "authorYears": "1850–1889",
-   "year": 1876,
-   "cats": [
-    "nuvele"
-   ],
-   "blurb": "O tânără italiancă și un călugăr frumos și rebel se întâlnesc pe o insulă de vis. Nuvela romantică a lui Eminescu.",
-   "palette": [
-    "#2F5D50",
-    "#F1EAD2"
-   ],
-   "cover": "/covers/ro-cezara.jpg"
-  },
   {
    "id": "ro-sarmanul-dionis",
    "title": "Sărmanul Dionis",
