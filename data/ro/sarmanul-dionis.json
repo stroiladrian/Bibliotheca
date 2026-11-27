@@ -1,0 +1,18 @@
+{
+  "slug": "sarmanul-dionis",
+  "engine": "gemini",
+  "voice": "Algieba",
+  "narrator": "Voce AI „Algieba” (Google Gemini)",
+  "bitrate": 48,
+  "source": "https://ro.wikisource.org/wiki/S%C4%83rmanul_Dionis",
+  "generatedAt": "2026-11-27T09:01:02+00:00",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Sărmanul Dionis",
+      "file": "01.mp3",
+      "seconds": 5331.4,
+      "bytes": 31988592
+    }
+  ]
+}

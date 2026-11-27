@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:27:13.247Z",
+ "generatedAt": "2026-11-27T09:01:06.535Z",
  "categories": [
   {
    "key": "basme",
@@ -628,6 +628,28 @@
    "kbps": 48
   },
   {
+   "id": "ro-sarmanul-dionis",
+   "title": "Sărmanul Dionis",
+   "author": "Mihai Eminescu",
+   "authorYears": "1850–1889",
+   "year": 1872,
+   "lang": "ro",
+   "narration": "ai",
+   "narrator": "Voce AI „Algieba” (Google Gemini)",
+   "seconds": 5331,
+   "chapters": 1,
+   "cover": "/covers/ro-sarmanul-dionis.jpg",
+   "palette": [
+    "#8A5A1F",
+    "#FBF0DC"
+   ],
+   "cats": [
+    "nuvele"
+   ],
+   "blurb": "Un tânăr sărac găsește o carte de astrologie care îl poartă prin timp și prin vise. Nuvela fantastică a lui Eminescu.",
+   "kbps": 48
+  },
+  {
    "id": "lv14017",
    "title": "Poezii",
    "author": "Mihai Eminescu",
@@ -680,22 +702,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "ro-sarmanul-dionis",
-   "title": "Sărmanul Dionis",
-   "author": "Mihai Eminescu",
-   "authorYears": "1850–1889",
-   "year": 1872,
-   "cats": [
-    "nuvele"
-   ],
-   "blurb": "Un tânăr sărac găsește o carte de astrologie care îl poartă prin timp și prin vise. Nuvela fantastică a lui Eminescu.",
-   "palette": [
-    "#8A5A1F",
-    "#FBF0DC"
-   ],
-   "cover": "/covers/ro-sarmanul-dionis.jpg"
-  },
   {
    "id": "ro-povestea-lui-harap-alb",
    "title": "Povestea lui Harap-Alb",
